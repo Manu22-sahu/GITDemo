@@ -1,0 +1,9 @@
+1. git add text1.txt
+2. git status
+3. git commit -m "First Commit"
+4. git status
+5. git remote add origin "https://github.com/Manu22-sahu/GITDemo.git"
+6. git push -u origin master
+7. *.java
+8. *.py
+9. *.* //for adding all the files
